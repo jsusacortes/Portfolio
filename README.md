@@ -16,7 +16,7 @@ All projects are implemented in **Python** using popular libraries (pandas, scik
 
 ---
 
-## [📊 Project 1: Customer Personality Segmentation] (https://github.com/jsusacortes/customer-personality-segmentation.git)
+## [📊 Project 1: Customer Personality Segmentation](https://github.com/jsusacortes/customer-personality-segmentation.git)
 
 ### Business Context
 A leading retail company wants to better understand its customers to create personalized marketing campaigns, improve retention, and optimize resource allocation. Using customer demographics, spending habits, and campaign response data, we segment customers into distinct groups.
@@ -40,7 +40,7 @@ A leading retail company wants to better understand its customers to create pers
 
 ---
 
-## 📈 [Project 2: Lead Conversion Prediction (ExtraaLearn)] (https://github.com/jsusacortes/Potential-customer-prediction.git)
+## 📈 [Project 2: Lead Conversion Prediction (ExtraaLearn)](https://github.com/jsusacortes/Potential-customer-prediction.git)
 
 ### Business Context
 ExtraaLearn, an EdTech startup, generates a high volume of leads daily but struggles to identify which ones are most likely to convert to paying customers. We build a machine learning model to predict conversion and uncover the key drivers.
@@ -72,7 +72,7 @@ ExtraaLearn, an EdTech startup, generates a high volume of leads daily but strug
 
 ---
 
-## 🛒 [Project 3: Amazon Product Recommendation System] (https://github.com/jsusacortes/Recommendation-systems.git)
+## 🛒 [Project 3: Amazon Product Recommendation System](https://github.com/jsusacortes/Recommendation-systems.git)
 
 ### Business Context
 E‑commerce platforms need to recommend relevant products to users to reduce information overload and increase sales. We implement and compare multiple recommendation algorithms on an Amazon Electronics dataset.
