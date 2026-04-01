@@ -171,14 +171,9 @@ See `requirements.txt` for exact versions.
 
 ## 👤 Author
 
-**Your Name**  
+**Juan Susa**  
 MIT Applied Data Science & Machine Learning Certification  
-[LinkedIn Profile URL] | [GitHub Profile URL]  
+[www.linkedin.com/in/juan-camilo-susa-cortes-380186262] 
 
 *These projects were completed as part of the MIT Professional Education program. They demonstrate practical skills in data preprocessing, exploratory data analysis, model building, evaluation, and deriving business‑relevant insights.*
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
